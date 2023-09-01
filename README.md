@@ -1,19 +1,19 @@
 # Welcome to My Allocine
 ***
-
+Welcome to my_ALLOCINE
 ## Task
-TODO - What is the problem? And where is the challenge?
+Yhe problem is to resolve the sqlite requests and the challenge is to learn and improve ous skills with the SQLITE Command for to manage the differents data in differents Tables of data.
 
 ## Description
-TODO - How have you solved the problem?
+Firstm i like this project because i don't know why i like teh sqlite command, i've learn the SQLITE and after i've trained my-self for more comprehension.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+This project haven't need installationm just Dowload the Data base with this link wget https://storage.googleapis.com/qwasar-public/track-claris/movies.db
 
 ## Usage
-TODO - How does it work?
+This project content :
 ```
-./my_project argument1 argument2
+./my_project/ex00/my_allocine.rb movies.db
 ```
 
 ### The Core Team
